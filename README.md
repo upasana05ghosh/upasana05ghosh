@@ -10,6 +10,7 @@
 - Pronouns: Programmer/She/Her/Hers
 - 📝 [My resume](https://github.com/upasana05ghosh/upasana05ghosh/blob/main/UpasanaResume.pdf)
 - ⚡ Fun Fact: I love to read books :books: and a big Harry Potter Fan! :innocent:
+- [Know more about me](https://upasana05ghosh.github.io/)
 - :raising_hand_woman: Let's connect:  
 [<img src="https://github.com/upasana05ghosh/upasana05ghosh.github.io/blob/master/img/linkedin.jpg" height="50em" align="center" alt="LinkedIn" title="Follow me on Linkedin"/>](https://www.linkedin.com/in/upasana05ghosh)
 [<img src="https://github.com/upasana05ghosh/upasana05ghosh.github.io/blob/master/img/twitter-logo-small.png" height="50em" align="center" alt="Follow me on Twitter" title="Follow me on Twitter"/>](https://twitter.com/upaa005)
