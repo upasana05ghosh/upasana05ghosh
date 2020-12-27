@@ -1,6 +1,6 @@
 ### Yo! It's nice to meet you! 👋
 
-[<img src="https://github.com/upasana05ghosh/upasana05ghosh/blob/main/Yo.gif" title="Yo"/>](https://upasana05ghosh.github.io/
+[<img src="https://github.com/upasana05ghosh/upasana05ghosh/blob/main/Yo.gif" title="Yo"/>](https://upasana05ghosh.github.io/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Raymo111.Raymo111)
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
