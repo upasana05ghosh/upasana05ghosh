@@ -5,7 +5,7 @@
 ## About me
 - :technologist: I am working as a software engineer in a fin-tech company. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Languages/Frameworks/Tools that I uses: Java, Spring Boot, Hibernate, Docker, Kubernetes, Kakfa, Oracle.
-- I'm currently reading :blue_book: the books: Effective Java by Joshua Bloch. I just love it. :upside_down_face:
+- I'm currently reading :blue_book: the book: Effective Java by Joshua Bloch. I just love it. :upside_down_face:
 - :woman_student: Did B.E in Computer Science From U.I.E.T, Punjab University
 
 ### :bar_chart: My Github stats:
