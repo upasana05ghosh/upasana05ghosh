@@ -2,7 +2,7 @@
 
 [<img src="https://github.com/upasana05ghosh/upasana05ghosh/blob/main/Yo.gif" title="Yo"/>](https://upasana05ghosh.github.io/)
 
-## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## About me
 - :technologist: I am working as a software engineer in a fin-tech company. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Languages/Frameworks/Tools that I uses: Java, Spring Boot, Hibernate, Docker, Kubernetes, Kakfa, Oracle.
 - I'm currently reading :blue_book: the books: Effective Java by Joshua Bloch. I just love it. :upside_down_face:
