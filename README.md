@@ -21,5 +21,5 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=upasana05ghosh.upasana05ghosh)
 
-### 😜Randome joke for you. Cheers! :clinking_glasses: :
+### Randome jokes for you. Cheers! :clinking_glasses: :
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
