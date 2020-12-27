@@ -7,9 +7,9 @@
 - Languages/Frameworks/Tools that I uses: Java, Spring Boot, Hibernate, Docker, Kubernetes, Kakfa, Oracle.
 - I'm currently reading :blue_book: the book: Effective Java by Joshua Bloch. I just love it. :upside_down_face:
 - :woman_student: Did B.E in Computer Science From U.I.E.T, Punjab University
+- ⚡ Fun Fact: I love to read books :books: and a big Harry Potter Fan! :innocent:
 - Pronouns: Programmer/She/Her/Hers
 - 📝 [My resume](https://github.com/upasana05ghosh/upasana05ghosh/blob/main/UpasanaResume.pdf)
-- ⚡ Fun Fact: I love to read books :books: and a big Harry Potter Fan! :innocent:
 - [Know more about me](https://upasana05ghosh.github.io/)
 - :raising_hand_woman: Let's connect:  
 [<img src="https://github.com/upasana05ghosh/upasana05ghosh.github.io/blob/master/img/linkedin.jpg" height="50em" align="center" alt="LinkedIn" title="Follow me on Linkedin"/>](https://www.linkedin.com/in/upasana05ghosh)
