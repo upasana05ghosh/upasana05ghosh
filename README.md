@@ -1,6 +1,6 @@
 ### Yo! It's nice to meet you! 👋 :smile:
 
-[<img src="https://github.com/upasana05ghosh/upasana05ghosh/blob/main/Yo.gif" title="Yo"/>](https://upasana05ghosh.github.io/)
+<!---[<img src="https://github.com/upasana05ghosh/upasana05ghosh/blob/main/Yo.gif" title="Yo"/>](https://upasana05ghosh.github.io/) --->
 
 ## About me
 - :technologist: I am working as a software engineer in a fin-tech company. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
