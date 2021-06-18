@@ -1,7 +1,13 @@
 
-### <p align="center"> Yo! It's nice to meet you! 👋 :smile: </p>
+### <p align="center"> Hi! It's nice to meet you! 👋 :smile: </p>
 
-<!---[<img src="https://github.com/upasana05ghosh/upasana05ghosh/blob/main/Yo.gif" title="Yo"/>](https://upasana05ghosh.github.io/) --->
+<p align="center">
+  <a href="https://www.linkedin.com/in/upasana05ghosh">
+       <img src="https://github.com/upasana05ghosh/upasana05ghosh/blob/main/Hi.gif" align="center" alt="Hi" title="Hi there!">
+  </a>
+  </p>
+  
+<!---[<img src="https://github.com/upasana05ghosh/upasana05ghosh/blob/main/Hi.gif" title="Yo"/>](https://upasana05ghosh.github.io/) --->
 
 ## About me
 - :technologist: I am working as a senior software engineer at Paypal. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
