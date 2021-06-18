@@ -14,7 +14,7 @@
 - [Know more about me](https://upasana05ghosh.github.io/)
 
 <p align="center"> 
-:raising_hand_woman: Let's connect:  <br>
+:raising_hand_woman: Let's connect and talk about everything!  <br>
   <a href="https://www.linkedin.com/in/upasana05ghosh">
        <img src="https://github.com/upasana05ghosh/upasana05ghosh.github.io/blob/master/img/linkedin.jpg" height="50em" align="center" alt="LinkedIn" title="Follow me on Linkedin">
   </a>
