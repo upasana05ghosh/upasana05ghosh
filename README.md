@@ -10,7 +10,7 @@
 <!---[<img src="https://github.com/upasana05ghosh/upasana05ghosh/blob/main/Hi.gif" title="Yo"/>](https://upasana05ghosh.github.io/) --->
 
 ## About me
-- :technologist: I am working as a senior software engineer at Paypal. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :technologist: I am working as a Senior Software engineer at [Paypal](https://www.paypal.com/). <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Languages/Frameworks/Tools that I uses: Java, Spring Boot, Hibernate, Docker, Kubernetes, Kakfa, Oracle.
 - I'm currently reading :blue_book: the book: Effective Java by Joshua Bloch. I just love it. :upside_down_face:
 - :woman_student: Did B.E in Computer Science From U.I.E.T, Punjab University
