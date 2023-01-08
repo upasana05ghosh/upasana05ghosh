@@ -35,6 +35,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upasana05ghosh&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/upasana05ghosh/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=upasana05ghosh.upasana05ghosh)
-
-### Randome jokes for you. Cheers! :clinking_glasses: :
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
