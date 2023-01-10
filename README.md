@@ -31,7 +31,7 @@
 
   
 ### :bar_chart: My Github stats:
-![My github stats](https://github-readme-stats.vercel.app/api?username=upasana05ghosh&count_private=true&show_icons=true&theme=midnight-purple&hide=issues,contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upasana05ghosh&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/upasana05ghosh/github-readme-stats)
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=upasana05ghosh&count_private=true&show_icons=true&theme=midnight-purple&hide=issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=upasana05ghosh&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/upasana05ghosh/github-readme-stats) -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=upasana05ghosh.upasana05ghosh)
