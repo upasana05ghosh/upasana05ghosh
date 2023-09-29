@@ -11,7 +11,7 @@
 
 ## About me
 - :technologist: I am working as a Senior Software engineer at [Confluent](https://www.confluent.io/). <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- Languages/Frameworks/Tools that I uses: Java, Spring Boot, Hibernate, Docker, Kubernetes, Kakfa, Oracle, Go, Angular
+- Languages/Frameworks/Tools that I uses: Java, Spring Boot, Hibernate, Docker, Kubernetes, Kafka, Oracle, Go, Angular
 - I'm currently reading :blue_book: the book: Effective Java by Joshua Bloch. I just love it. :upside_down_face:
 - :woman_student: Did B.E in Computer Science From U.I.E.T, Punjab University
 - ⚡ Fun Fact: I love to read books :books: and a big Harry Potter Fan! :innocent:
