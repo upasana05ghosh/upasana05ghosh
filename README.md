@@ -16,7 +16,6 @@
 - :woman_student: Did B.E in Computer Science From U.I.E.T, Punjab University
 - ⚡ Fun Fact: I love to read books :books: and a big Harry Potter Fan! :innocent:
 - Pronouns: Programmer/She/Her/Hers
-- 📝 [My resume](https://github.com/upasana05ghosh/upasana05ghosh/blob/main/UpasanaResume.pdf)
 - [Know more about me](https://upasana05ghosh.github.io/)
 
 <p align="center"> 
